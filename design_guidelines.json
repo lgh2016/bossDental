@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "name": "Laboratorio Dental Boss",
+    "domain": "Health/Dental/Local Business",
+    "theme": "LIGHT",
+    "archetype": "1 (Organic & Earthy)"
+  },
+  "design_philosophy": {
+    "core_concept": "Modern, minimalist, and deeply human. Move away from sterile, cold blue/white hospital tones. Emphasize trust, warmth, and accessibility in Ecatepec through organic colors, ample negative space, and a spa-like digital experience.",
+    "emotional_tone": "Reassuring, professional, warm, accessible."
+  },
+  "colors": {
+    "background": {
+      "default": "#F9F8F6",
+      "surface": "#FFFFFF",
+      "secondary": "#EAE6DF"
+    },
+    "text": {
+      "primary": "#1A1A1A",
+      "secondary": "#5C5C5C",
+      "accent": "#3F6151"
+    },
+    "brand": {
+      "primary": "#3F6151",
+      "primary_hover": "#2C4539",
+      "secondary": "#E3BA9B",
+      "whatsapp": "#25D366"
+    },
+    "border": {
+      "subtle": "#E5E1D8",
+      "strong": "#D0C9BD"
+    }
+  },
+  "typography": {
+    "font_families": {
+      "heading": "Outfit, sans-serif",
+      "body": "Work Sans, sans-serif"
+    },
+    "scales": {
+      "h1": "text-5xl sm:text-6xl tracking-tight leading-none font-light",
+      "h2": "text-3xl sm:text-4xl tracking-tight leading-tight font-normal",
+      "h3": "text-xl sm:text-2xl font-medium",
+      "body": "text-base leading-relaxed",
+      "small": "text-sm uppercase tracking-[0.2em]"
+    },
+    "rules": [
+      "No generic 'Inter' for headings.",
+      "Headings should have tight letter spacing.",
+      "Never center paragraphs, left-align for readability.",
+      "Overlines must be uppercase with wide spacing."
+    ]
+  },
+  "layout_and_spacing": {
+    "philosophy": "Generous Spacing (p-12 to p-24) to create a 'breathing' UI that feels premium.",
+    "grid_system": {
+      "services": "Bento Grid Mode A ('Tetris'): Assymetric grid-cols-1 md:grid-cols-12 gap-8.",
+      "reviews": "Horizontal scroll or staggered grid."
+    },
+    "surfaces": {
+      "nav": "Crystal Glassmorphism: backdrop-blur-xl bg-white/70 border-b border-[#E5E1D8]/50",
+      "cards": "Subtle soft shadows, 1px #E5E1D8 border, no heavy soft-UI shadows."
+    }
+  },
+  "components_instructions": {
+    "navigation": "Sticky nav (z-50) with logo, main links, and a solid CTA button. Crystal glassmorphism background.",
+    "hero": "Hero section must have an organic feel. Split layout or large overlapping image. Max overlay bg-black/30 if text is placed over image. Use a soft, warm aesthetic.",
+    "floating_whatsapp": "Fixed bottom-right. Not just an icon, a pill shape with text 'Agenda tu cita' for higher conversion, colored in WhatsApp green.",
+    "booking_form": "Shadcn based. Stripped down minimal inputs (Input, Select) without heavy borders. Focus states must ring in brand primary.",
+    "maps": "Embed Google Maps in the footer or contact section, styled cleanly, rounded corners.",
+    "buttons": "Rounded-full for a modern, organic touch. High contrast text on hover."
+  },
+  "media": {
+    "hero_image": {
+      "url": "https://images.pexels.com/photos/5355702/pexels-photo-5355702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Smiling patient in a dental chair with healthcare professional nearby. Warm lighting.",
+      "location": "Hero Section background or split right image"
+    },
+    "dr_azael_authority": {
+      "url": "https://images.unsplash.com/photo-1729162128021-f37dca3ff30d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1Mjh8MHwxfHNlYXJjaHwxfHxkZW50aXN0JTIwcG9ydHJhaXQlMjBwcm9mZXNzaW9uYWx8ZW58MHx8fHwxNzc3MzIxNzQ1fDA&ixlib=rb-4.1.0&q=85",
+      "description": "Professional and warm portrait of a dentist (representing Dr. Azael).",
+      "location": "Authority/Experience Section"
+    },
+    "service_rehabilitation_lab": {
+      "url": "https://images.pexels.com/photos/7788493/pexels-photo-7788493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Dentist/technician creating artificial teeth in a modern dental lab.",
+      "location": "Services Bento Grid (Rehabilitation/Lab)"
+    },
+    "service_aesthetics": {
+      "url": "https://images.pexels.com/photos/6627574/pexels-photo-6627574.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Woman at a dental clinic smiling while holding a mirror.",
+      "location": "Services Bento Grid (Aesthetic Dentistry)"
+    },
+    "guarantee_promise": {
+      "url": "https://images.pexels.com/photos/4269361/pexels-photo-4269361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Bright, clean, modern dental clinic equipment showcasing precision.",
+      "location": "Diferencial/Promesa Boss Section"
+    }
+  },
+  "animations": {
+    "scroll": "Use Lenis for smooth scrolling (MANDATORY).",
+    "entrances": "Framer Motion: fade-up with slight Y translation (y: 20 -> 0) and high easing (ease: [0.16, 1, 0.3, 1]).",
+    "hover": "Scale down images slightly (scale: 0.98) on card hover to create depth."
+  },
+  "testing": {
+    "attributes": "Add data-testid to all interactive elements, e.g., data-testid='whatsapp-cta', data-testid='booking-submit'."
+  }
+}
