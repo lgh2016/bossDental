@@ -6,6 +6,8 @@ import Hero from "./components/Hero";
 import Authority from "./components/Authority";
 import Services from "./components/Services";
 import Reviews from "./components/Reviews";
+import Gallery from "./components/Gallery";
+import Team from "./components/Team";
 import Guarantee from "./components/Guarantee";
 import BookingForm from "./components/BookingForm";
 import FAQSection from "./components/FAQSection";
@@ -18,6 +20,8 @@ const Home = () => (
     <Hero />
     <Authority />
     <Services />
+    <Gallery />
+    <Team />
     <Reviews />
     <Guarantee />
     <BookingForm />

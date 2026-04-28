@@ -5,9 +5,9 @@ import { BUSINESS, waLink } from "../lib/constants";
 
 const links = [
   { href: "#servicios", label: "Servicios" },
-  { href: "#experiencia", label: "Experiencia" },
+  { href: "#galeria", label: "Galería" },
+  { href: "#equipo", label: "Equipo" },
   { href: "#resenas", label: "Reseñas" },
-  { href: "#garantia", label: "Garantía" },
   { href: "#faq", label: "Preguntas" },
   { href: "#contacto", label: "Contacto" },
 ];
