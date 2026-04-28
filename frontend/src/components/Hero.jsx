@@ -61,7 +61,7 @@ export default function Hero() {
           <div className="relative">
             <div className="absolute -inset-4 bg-[#EAE6DF] rounded-[28px] -rotate-2" />
             <img
-              src="/images/paciente.png"
+              src="/images/paciente.jpg"
               alt="Paciente sonriendo en consulta dental"
               className="relative w-full h-[520px] object-cover rounded-[28px]"
             />
