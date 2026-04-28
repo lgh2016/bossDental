@@ -29,7 +29,7 @@ export default function Authority() {
         <div className="lg:col-span-5 order-2 lg:order-1">
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1729162128021-f37dca3ff30d?crop=entropy&cs=srgb&fm=jpg&q=85&w=900"
+              src="/images/dr-azael.jpg"
               alt="Dr. Azael - Odontólogo profesional"
               className="w-full h-[560px] object-cover rounded-[24px]"
             />
