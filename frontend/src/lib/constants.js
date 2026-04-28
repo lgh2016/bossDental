@@ -26,7 +26,7 @@ export const SERVICES = [
     description:
       "Coronas, puentes e implantes fabricados con precisión para devolverle función y confort a tu mordida.",
     image:
-      "https://images.pexels.com/photos/7788493/pexels-photo-7788493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "/images/reh-dental_pro.jpg",
   },
   {
     key: "estetica",
