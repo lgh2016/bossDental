@@ -7,7 +7,7 @@ const TEAM = [
     name: "Dr. Azael",
     role: "Cirujano Dentista · Director",
     bio: "Más de 10 años de experiencia clínica. Lidera cada caso con un enfoque humano y resultados precisos.",
-    image: "https://images.unsplash.com/photo-1729162128021-f37dca3ff30d?crop=entropy&cs=srgb&fm=jpg&q=85&w=900",
+    image: "/images/dr-azael.jpg",
     accent: "#3F6151",
   },
   {
