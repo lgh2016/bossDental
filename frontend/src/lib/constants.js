@@ -44,7 +44,7 @@ export const SERVICES = [
     description:
       "Prótesis fijas y removibles diseñadas en nuestro propio laboratorio. Mejor calidad, mejor precio.",
     image:
-      "https://images.pexels.com/photos/4269361/pexels-photo-4269361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "/images/laboratorio.jpg",
   },
 ];
 
