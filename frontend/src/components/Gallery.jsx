@@ -191,9 +191,6 @@ export default function Gallery() {
                   <span className="text-[10px] uppercase tracking-[0.24em] text-[#E3BA9B]">{active.category}</span>
                   <h3 className="mt-3 font-['Outfit'] text-3xl font-light">{active.title}</h3>
                   <p className="mt-5 text-white/75 leading-relaxed">{active.description}</p>
-                  <div className="mt-8 pt-6 border-t border-white/10 text-xs text-white/50">
-                    Imagen ilustrativa · Pronto subiremos fotografía real de nuestro laboratorio.
-                  </div>
                 </div>
               </div>
             </div>
