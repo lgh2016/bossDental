@@ -42,7 +42,9 @@ export const SERVICES = [
     title: "Prótesis y Laboratorio",
     benefit: "Del laboratorio al paciente, sin intermediarios costosos.",
     description:
-      "Prótesis fijas y removibles diseñadas en nuestro propio laboratorio. Mejor calidad, mejor precio.",
+      "Prótesis fijas y removibles diseñadas en nuestro propio laboratorio. Mejor calidad, mejor precio. En nuestro laboratorio digital combinamos precisión, tecnología y experiencia " +
+      "para diseñar y fabricar prótesis dentales de alta calidad. Cada pieza es trabajada con exactitud milimétrica, garantizando un ajuste perfecto,\n" +
+      "funcionalidad óptima y una estética natural.",
     image: "/imagenes/laboratorio.jpg",
   },
 ];
