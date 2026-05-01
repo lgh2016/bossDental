@@ -43,8 +43,7 @@ export const SERVICES = [
     benefit: "Del laboratorio al paciente, sin intermediarios costosos.",
     description:
       "Prótesis fijas y removibles diseñadas en nuestro propio laboratorio. Mejor calidad, mejor precio.",
-    image:
-      "/images/laboratorio.jpg",
+    image: "/imagenes/laboratorio.jpg",
   },
 ];
 
