@@ -11,10 +11,10 @@ const TEAM = [
     accent: "#3F6151",
   },
   {
-    name: "Dra. Sofía Ramírez",
-    role: "Odontóloga · Estética Dental",
-    bio: "Especializada en diseño de sonrisa y carillas. Cuida cada detalle para resultados naturales.",
-    image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?crop=entropy&cs=srgb&fm=jpg&q=85&w=900",
+    name: "Dr. Chac Hernández",
+    role: "Odontólogo · Estética Dental",
+    bio: "Especializada en diseño de sonrisa. Cuida cada detalle para resultados naturales.",
+    image: "/images/chac.jpg",
     accent: "#E3BA9B",
   },
   {
