@@ -13,7 +13,7 @@ const TEAM = [
   {
     name: "Dr. Chac Hernández",
     role: "Odontólogo · Estética Dental",
-    bio: "Especializada en diseño de sonrisa. Cuida cada detalle para resultados naturales.",
+    bio: "Especializado en diseño de sonrisa. Cuida cada detalle para resultados naturales.",
     image: "/images/chac.jpg",
     accent: "#E3BA9B",
   },
