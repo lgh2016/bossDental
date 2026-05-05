@@ -36,9 +36,11 @@ export default function Navbar() {
           data-testid="brand-logo"
           className="flex items-center gap-2 group"
         >
-          <span className="w-9 h-9 rounded-full bg-[#3F6151] text-white grid place-items-center font-['Outfit'] text-lg font-medium">
-            B
-          </span>
+          <img
+              src="/imagenes/logo-lig.jpg"
+              alt="Boss Dental"
+              className="w-12 h-12 object-contain"
+          />
           <span className="font-['Outfit'] text-lg tracking-tight">
             Dental <span className="font-medium">Boss</span>
           </span>
