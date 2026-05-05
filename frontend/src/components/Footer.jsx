@@ -8,9 +8,11 @@ export default function Footer() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10">
           <div className="lg:col-span-5">
             <div className="flex items-center gap-2">
-              <span className="w-9 h-9 rounded-full bg-[#3F6151] text-white grid place-items-center font-['Outfit']">
-                B
-              </span>
+              <img
+                  src="/images/final-1.1-sinfondo.png"
+                  alt="Boss Dental"
+                  className="h-14 w-auto object-contain"
+              />
               <span className="font-['Outfit'] text-lg tracking-tight text-white">
                 Laboratorio Dental Boss
               </span>
