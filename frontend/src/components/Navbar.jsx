@@ -39,7 +39,7 @@ export default function Navbar() {
           <img
               src="/images/final-1.1-sinfondo.png"
               alt="Boss Dental"
-              className="w-12 h-12 object-contain"
+              className="h-14 w-auto object-contain"
           />
           <span className="font-['Outfit'] text-lg tracking-tight">
             Dental <span className="font-medium">Boss</span>
