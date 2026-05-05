@@ -37,7 +37,7 @@ export default function Navbar() {
           className="flex items-center gap-2 group"
         >
           <img
-              src="/imagenes/logo-lig.jpg"
+              src="/imagenes/final-1.1-sinfondo.png"
               alt="Boss Dental"
               className="w-12 h-12 object-contain"
           />
