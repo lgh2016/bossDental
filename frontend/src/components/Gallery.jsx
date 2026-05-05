@@ -5,8 +5,8 @@ import { X, ZoomIn, ChevronLeft, ChevronRight } from "lucide-react";
 const ITEMS = [
   // Laboratorio
   { id: 1, src: "https://images.pexels.com/photos/3845625/pexels-photo-3845625.jpeg?auto=compress&cs=tinysrgb&w=1400", title: "Nuestro consultorio", description: "Espacio limpio, moderno y diseñado para que te sientas cómodo desde que entras.", category: "Laboratorio" },
-  { id: 2, src: "/imagenes/atención-paciente.jpg", title: "Atención al paciente", description: "Tu comodidad y confianza son nuestra prioridad en cada consulta.", category: "Laboratorio" },
-  { id: 3, src: "/imagenes/sala-revision.jpg", title: "Sala de revisión", description: "Cada espacio está pensado para que tu visita sea rápida y placentera.", category: "Laboratorio" },
+  { id: 2, src: "/images/atención-paciente.jpg", title: "Atención al paciente", description: "Tu comodidad y confianza son nuestra prioridad en cada consulta.", category: "Laboratorio" },
+  { id: 3, src: "/images/sala-revision.jpg", title: "Sala de revisión", description: "Cada espacio está pensado para que tu visita sea rápida y placentera.", category: "Laboratorio" },
   { id: 4, src: "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=1400", title: "Detalles del laboratorio", description: "Cada herramienta tiene un propósito: precisión absoluta en cada milímetro.", category: "Laboratorio" },
   { id: 5, src: "https://images.pexels.com/photos/4269352/pexels-photo-4269352.jpeg?auto=compress&cs=tinysrgb&w=1400", title: "Recepción cálida", description: "Un primer contacto amable y resolutivo desde el momento en que llegas.", category: "Laboratorio" },
   { id: 6, src: "https://images.pexels.com/photos/4269694/pexels-photo-4269694.jpeg?auto=compress&cs=tinysrgb&w=1400", title: "Equipo de imagenología", description: "Diagnósticos rápidos y precisos con tecnología actual.", category: "Laboratorio" },
