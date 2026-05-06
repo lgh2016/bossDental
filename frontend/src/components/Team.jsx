@@ -25,13 +25,6 @@ const TEAM = [
     accent: "#3F6151",
   },
   {
-    name: "Dr. Mauricio Lozano",
-    role: "Periodoncia e Implantes",
-    bio: "Experto en cirugía periodontal e implantes osteointegrados. Tratamientos seguros y duraderos.",
-    image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?crop=entropy&cs=srgb&fm=jpg&q=85&w=900",
-    accent: "#3F6151",
-  },
-  {
     name: "Dra. Valeria Núñez",
     role: "Ortodoncia",
     bio: "Especialista en ortodoncia tradicional y alineadores invisibles para todas las edades.",
@@ -58,6 +51,13 @@ const TEAM = [
     bio: "Coordina seguimientos, tratamientos en curso y planes de pago a tu medida.",
     image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=srgb&fm=jpg&q=85&w=900",
     accent: "#E3BA9B",
+  },
+  {
+    name: "Dr. Mauricio Lozano",
+    role: "Periodoncia e Implantes",
+    bio: "Experto en cirugía periodontal e implantes osteointegrados. Tratamientos seguros y duraderos.",
+    image: "https://images.unsplash.com/photo-1622253692010-333f2da6031d?crop=entropy&cs=srgb&fm=jpg&q=85&w=900",
+    accent: "#3F6151",
   },
 ];
 
