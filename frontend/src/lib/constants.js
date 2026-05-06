@@ -5,7 +5,7 @@ export const BUSINESS = {
   phone: "55 9169 4795",
   phoneRaw: "5591694795",
   whatsappNumber: "525591694795",
-  hours: "Lun – Sáb · 09:00 AM a 6:00 PM",
+  hours: "Lun – Vie · 09:00 AM a 6:00 PM / Sáb · 09:00 AM a 6:00 PM  ",
   mapsEmbed:
     "https://www.google.com/maps?q=Av.+Morelos+2,+San+Cristóbal+Centro,+Ecatepec+de+Morelos&output=embed",
   mapsLink:
