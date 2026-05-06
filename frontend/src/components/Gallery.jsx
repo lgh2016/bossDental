@@ -4,7 +4,7 @@ import { X, ZoomIn, ChevronLeft, ChevronRight } from "lucide-react";
 
 const ITEMS = [
   // Laboratorio
-  { id: 1, src: "https://images.pexels.com/photos/3845625/pexels-photo-3845625.jpeg?auto=compress&cs=tinysrgb&w=1400", title: "Nuestro consultorio", description: "Espacio limpio, moderno y diseñado para que te sientas cómodo desde que entras.", category: "Laboratorio" },
+  { id: 1, src: "/images/nuestro-consultorio.jpg", title: "Nuestro consultorio", description: "Espacio limpio, moderno y diseñado para que te sientas cómodo desde que entras.", category: "Laboratorio" },
   { id: 2, src: "/images/atención-paciente.jpg", title: "Atención al paciente", description: "Tu comodidad y confianza son nuestra prioridad en cada consulta.", category: "Laboratorio" },
   { id: 3, src: "/images/sala-revision.jpg", title: "Sala de revisión", description: "Cada espacio está pensado para que tu visita sea rápida y placentera.", category: "Laboratorio" },
   { id: 4, src: "https://images.pexels.com/photos/3779706/pexels-photo-3779706.jpeg?auto=compress&cs=tinysrgb&w=1400", title: "Detalles del laboratorio", description: "Cada herramienta tiene un propósito: precisión absoluta en cada milímetro.", category: "Laboratorio" },
