@@ -18,6 +18,13 @@ const TEAM = [
     accent: "#E3BA9B",
   },
   {
+    name: "Téc. Alfredo Flores",
+    role: "Laboratorista y Técnico Especializado",
+    bio: "Responsable de los procesos técnicos y digitales del laboratorio, garantizando calidad y exactitud en cada procedimiento.",
+    image: "/images/alfredo.jpg",
+    accent: "#3F6151",
+  },
+  {
     name: "Dr. Mauricio Lozano",
     role: "Periodoncia e Implantes",
     bio: "Experto en cirugía periodontal e implantes osteointegrados. Tratamientos seguros y duraderos.",
@@ -44,13 +51,6 @@ const TEAM = [
     bio: "Acompaña al doctor en cada procedimiento. Tu mejor aliada para sentirte tranquilo.",
     image: "https://images.unsplash.com/photo-1551601651-2a8555f1a136?crop=entropy&cs=srgb&fm=jpg&q=85&w=900",
     accent: "#E3BA9B",
-  },
-  {
-    name: "Téc. Alfredo Flores",
-    role: "Laboratorista y Técnico Especializado",
-    bio: "Responsable de los procesos técnicos y digitales del laboratorio, garantizando calidad y exactitud en cada procedimiento.",
-    image: "/images/alfredo.jpg",
-    accent: "#3F6151",
   },
   {
     name: "Lic. Karla Rivera",
