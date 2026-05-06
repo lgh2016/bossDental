@@ -46,10 +46,10 @@ const TEAM = [
     accent: "#E3BA9B",
   },
   {
-    name: "Alfredo",
-    role: "Recepción y Atención al Paciente",
-    bio: "Tu primer contacto. Te guía con calidez, agenda tu cita y resuelve cualquier duda antes de entrar.",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?crop=entropy&cs=srgb&fm=jpg&q=85&w=900",
+    name: "Téc. Alfredo Flores",
+    role: "Laboratorista y Técnico Especializado",
+    bio: "Responsable de los procesos técnicos y digitales del laboratorio, garantizando calidad y exactitud en cada procedimiento.",
+    image: "/images/alfredo.jpg",
     accent: "#3F6151",
   },
   {
