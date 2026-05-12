@@ -187,10 +187,7 @@ export default function Team() {
             />
           ))}
         </div>
-
-        <p className="mt-8 text-xs text-[#5C5C5C]/70 text-center">
-          Fotografías ilustrativas · pronto las reemplazaremos por imágenes reales del equipo.
-        </p>
+        
       </div>
     </section>
   );
